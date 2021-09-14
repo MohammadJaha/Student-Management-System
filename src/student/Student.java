@@ -40,7 +40,7 @@ public class Student {
                 + "\n\n1- Add a new Student"
                 + "\n2- Show all students"
                 + "\n3- Show the student with the highest GPA"
-                + "\n4- Update CGPA for a student"
+                + "\n4- Update GPA for a student"
                 + "\n5- Delete a student"
                 + "\n6- Sort by name or GPA"
                 + "\n7- Save all the data in a text file"
